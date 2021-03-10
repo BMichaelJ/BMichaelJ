@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin: Michael Jonsson](https://img.shields.io/badge/-Michael_Jonsson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/michael-jonsson/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Michael_Jonsson.svg?style=social)](<https://twitter.com/Michael_Jonsson> "Twitter")
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![repo stats](https://github-readme-stats.vercel.app/api?username=BMichaelJ&show_icons=true&line_height=27)
 
 
 <!--
